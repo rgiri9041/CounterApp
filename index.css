@@ -1,7 +1,7 @@
 body {
     background-image: url("./image/station.webp");
     text-align: center;
-    padding-top: 200px;
+    padding-top: 150px;
     object-fit: cover;
     color: white
     ;
@@ -37,5 +37,11 @@ button.save {
     height: 40px;
     margin: 0 auto;
     
+}
+
+#save-el {
+    color: black;
+    font-weight: bold;
+    font-size: large;
 }
 
